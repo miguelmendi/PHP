@@ -11,4 +11,5 @@
   $z = 7;
 
   $w = $x + $y + $z;
+  echo $z;
   echo $w;
